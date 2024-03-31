@@ -21,6 +21,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+[Demo](https://imgur.com/a/UCyL227)
+
 ## Notes
 
 A challenge was setting up the decodable struct for when I wanted to add the blog name as the title of the navbar.
