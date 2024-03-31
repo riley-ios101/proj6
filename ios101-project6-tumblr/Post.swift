@@ -10,7 +10,12 @@ struct Blog: Decodable {
 }
 
 struct Response: Decodable {
+    let blog : Info
     let posts: [Post]
+}
+
+struct Info : Decodable {
+    let title : String
 }
 
 struct Post: Decodable {
